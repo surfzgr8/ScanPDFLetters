@@ -1,0 +1,5 @@
+ExceptionReport:
+Property Reference:190889 has service charges difference
+For Service Type:Accountancy Fee
+Csv Scheme Cost:1338
+Pdf Scheme Cost:138.00

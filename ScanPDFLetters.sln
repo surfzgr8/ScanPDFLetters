@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScanPDFLetters", "ScanPDFLetters\ScanPDFLetters.csproj", "{FAEF9478-EBBE-45B2-A651-B0BB8173437A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{12D27632-91ED-4C56-9CD2-47BABF522937}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAEF9478-EBBE-45B2-A651-B0BB8173437A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAEF9478-EBBE-45B2-A651-B0BB8173437A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAEF9478-EBBE-45B2-A651-B0BB8173437A}.Debug|x64.ActiveCfg = Debug|x64
+		{FAEF9478-EBBE-45B2-A651-B0BB8173437A}.Debug|x64.Build.0 = Debug|x64
+		{FAEF9478-EBBE-45B2-A651-B0BB8173437A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAEF9478-EBBE-45B2-A651-B0BB8173437A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAEF9478-EBBE-45B2-A651-B0BB8173437A}.Release|x64.ActiveCfg = Release|x64
+		{FAEF9478-EBBE-45B2-A651-B0BB8173437A}.Release|x64.Build.0 = Release|x64
+		{12D27632-91ED-4C56-9CD2-47BABF522937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D27632-91ED-4C56-9CD2-47BABF522937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D27632-91ED-4C56-9CD2-47BABF522937}.Debug|x64.ActiveCfg = Debug|x64
+		{12D27632-91ED-4C56-9CD2-47BABF522937}.Debug|x64.Build.0 = Debug|x64
+		{12D27632-91ED-4C56-9CD2-47BABF522937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D27632-91ED-4C56-9CD2-47BABF522937}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12D27632-91ED-4C56-9CD2-47BABF522937}.Release|x64.ActiveCfg = Release|x64
+		{12D27632-91ED-4C56-9CD2-47BABF522937}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F16973C-22DB-4AC3-AA2E-E0F2A530AC1B}
+	EndGlobalSection
+EndGlobal
